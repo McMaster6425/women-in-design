@@ -1,7 +1,7 @@
 <h1>Breaking Barriers, Shaping Trends</h1>
 <h2>Celebrating the Influence and Creativity of Women in Design</h2>
 
-<strong>Women play a pivotal role, in enriching the field of design with diverse perspectives, creativity, and innovation. Their unique insights and talents challenge traditional norms, profoundly shaping visual communication.</strong>
+Women play a pivotal role, in enriching the field of design with diverse perspectives, creativity, and innovation. Their unique insights and talents challenge traditional norms, profoundly shaping visual communication.
 
 <h2>Elizabeth Friedländer</h2>
 
@@ -9,7 +9,7 @@
 <p>Friedländer's legacy extends beyond her notable contributions to typography. She was also a trailblazer for women in design, breaking gender barriers in a male-dominated industry. Her determination and talent paved the way for future generations of female designers, inspiring them to pursue their creative passions fearlessly. Friedländer's meticulous craftsmanship and dedication to her craft continue to be celebrated, serving as a testament to her enduring impact on graphic design and her role as a trailblazer for women in the field.
 <p>In addition to her remarkable achievements in typography, Elizabeth Friedländer's influence extended to various design disciplines, including book cover and layout design. Her keen sense of balance, attention to detail, and innovative use of imagery set her work apart. Friedländer's designs were characterised by their elegance and simplicity, often incorporating captivating visuals that complemented the book's content seamlessly. Her ability to create visually striking and cohesive designs made her a sought-after designer, shaping the aesthetics of numerous publications.</p>
 
-## Paula Scher
+<h2>Paula Scher</h2>
 
 <p>A principal designer for influential design consultancy Pentagram, Paula Scher, a prominent graphic designer and artist, has made indelible marks on the world of design through her innovative and bold creations. Scher's work is characterised by her exceptional use of typography and vibrant visual language. One of her most iconic contributions is her redesign of the visual identity for the Public Theater in New York City. Scher's approach was revolutionary; she combined expressive typography with dynamic imagery, creating a distinctive and memorable brand identity. Her use of large, bold lettering coupled with imaginative illustrations transformed the Public Theater's image, making it a testament to the power of graphic design in shaping public perception and cultural institutions.
 <p>Scher's versatility as a designer is reflected in her diverse body of work, which spans across various mediums such as branding, packaging, and environmental design. Her ability to seamlessly blend typography and imagery allows her to convey complex messages with clarity and creativity. Scher's designs often provoke thought and evoke emotions, capturing the essence of the subject matter while pushing the boundaries of conventional design. Her fearless approach to experimenting with different styles and techniques has earned her recognition and respect in the design community, inspiring aspiring designers to explore the limitless possibilities within the realm of graphic design.
