@@ -22,14 +22,14 @@ h1{
 }
 h2{
     font-size: 80px;
-    font-family: 'Abril Fatface';
+    font-family: 'Helvetica Neue';
     outline: black;
 }
-body{
+body{ 
     margin-top: 16px;
-    margin-bottom: 100px;
-    margin-left: 140px;
-    margin-right: 140px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 16px;
 }
 
 /*---- Styling typography ---*/
