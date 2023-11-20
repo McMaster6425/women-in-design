@@ -21,11 +21,16 @@ h1{
     stroke: black;
 }
 h2{
-    font-size: 100px;
+    font-size: 80px;
     font-family: 'Abril Fatface';
     outline: black;
 }
-
+body{
+    margin-top: 16px;
+    margin-bottom: 100px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
 
 /*---- Styling typography ---*/
 
