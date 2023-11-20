@@ -20,6 +20,11 @@ h1{
     font-family: 'Abril Fatface';
     stroke: black;
 }
+h2{
+    font-size: 100px;
+    font-family: 'Abril Fatface';
+    outline: black;
+}
 
 
 /*---- Styling typography ---*/
