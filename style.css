@@ -87,11 +87,16 @@ h2 {
     font-size: x-large;
 }
 
-nav {
-    width: 100%;
-    margin: 0;
-    padding-block : 15px;
-    float: left;
+li, #navigation {
+    display: inline-block;
+    margin-left: 150px;
+    position: relative;
+    align-content: stretch;
+}
+
+a:link {
+    color: rgb(251, 249, 249);
+    text-decoration: none;
 }
 
 li {
@@ -111,11 +116,9 @@ li {
 }
 
 footer {
-    background-image: none;
     position: relative;
         bottom: 1650px;
             align-content: center;
-                margin-right: 500px;
-                    margin-left: 500px;
+                margin-right: 1000px;
                     padding: 4em 0 3em 0
 }
