@@ -13,7 +13,9 @@ h1 {
     text-align: center;
     font-family: Abril Fatface;
     font-size: 180px;
-   background-color: #f9d8d3;
+    color: fuchsia;
+    stroke: black;
+    stroke-width: 1px;
     width: cover;
 }
 
@@ -21,8 +23,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 h2 {
+h2 {
     color: fuchsia;
+    align-content: center;
+    font-family: Abril Fatface;
 }
 
 p{
