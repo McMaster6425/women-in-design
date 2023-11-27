@@ -33,6 +33,7 @@ h2 {
     color: black;
     align-content: center;
     font-family: Abril Fatface;
+    position: relative;
     font-size: 70px;
 }
 
@@ -47,4 +48,8 @@ h2 {
 #subsubheading {
     font-size: xx-large;
     text-align: center;
+}
+
+#Paulatitle {
+    margin-bottom: 600px;
 }
