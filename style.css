@@ -13,9 +13,7 @@ h1 {
     text-align: center;
     font-family: Abril Fatface;
     font-size: 180px;
-    color: fuchsia;
-    stroke: black;
-    stroke-width: 1px;
+    color: black;
     width: cover;
 }
 
@@ -24,13 +22,13 @@ body {
 }
 
 #subheading {
-    color: fuchsia;
+    color: black;
     align-content: center;
     font-size: 70px;
 }
 
 h2 {
-    color: fuchsia;
+    color: black;
     align-content: center;
     font-family: Abril Fatface;
     font-size: 70px;
