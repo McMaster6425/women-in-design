@@ -111,9 +111,11 @@ li {
 }
 
 footer {
+    background-image: none;
     position: relative;
-        bottom: 1900px;
+        bottom: 1650px;
             align-content: center;
                 margin-right: 500px;
                     margin-left: 500px;
+                    padding: 4em 0 3em 0
 }
