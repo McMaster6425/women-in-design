@@ -5,7 +5,7 @@ body {
 
 #firstimage {
     width: cover;
-    height: 600px;
+    height: 1000px;
     border: black;
 }
 
@@ -24,6 +24,8 @@ body {
 #subheading {
     color: black;
     align-content: center;
+    width: fit-content;
+    margin-left: 170px;
     font-size: 70px;
 }
 
@@ -34,6 +36,11 @@ h2 {
     font-size: 70px;
 }
 
-p{
+#elizabethparapgraph {
     color: black;
+    position: relative;
+    bottom: 650px;
+    margin-left: 700px;
+    font-size: x-large
 }
+
