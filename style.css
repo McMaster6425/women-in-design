@@ -44,3 +44,7 @@ h2 {
     font-size: x-large
 }
 
+#subsubheading {
+    font-size: xx-large;
+    text-align: center;
+}
