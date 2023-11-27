@@ -1,15 +1,18 @@
 body {
-    background-color: white;
+   background-color: #f9d8d3;
     margin-right: 100px;
 }
 
 #firstimage {
     width: cover;
     height: 500px;
+    border: black;
 }
 
 h1 {
     text-align: center;
-    font-family: abril-fatface;
-    font-size: x-large;
+    font-family: Abril Fatface;
+    font-size: 200px;
+   background-color: #f9d8d3;
+    width: cover;
 }
