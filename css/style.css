@@ -15,7 +15,7 @@ h1 {
 }
 
 .imageheader {
-    background: url(../images/mountain-range.png) no-repeat;
+    background: url(../images/range.jpg) no-repeat;
     width: 100vw;
     /* Photo by <a href="https://unsplash.com/@paulearlephotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Paul Earle</a> on <a href="https://unsplash.com/photos/mountains-cover-by-fogs-wVjd0eWNqI8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   */
@@ -23,7 +23,7 @@ h1 {
 }
 
 #subheading {
-    color: rgb(148, 117, 117);
+    color: rgb(0, 0, 0);
     width: fit-content;
     position: relative;
     align-content: space-evenly;
