@@ -14,6 +14,12 @@ h1 {
     text-shadow: black;
 }
 
+section {
+    width: 80%;
+    margin: auto;
+    max-width: 800px;
+}
+
 .imageheader {
     background: url(../images/range.jpg) no-repeat;
     width: 100vw;
@@ -49,6 +55,7 @@ h2 {
     font-size: 4.3rem;
 }
 
+/*
 #elizabethparapgraph {
     color: black;
     position: relative;
@@ -56,6 +63,16 @@ h2 {
     margin-left: 42rem;
     font-size: 1rem;
     line-height: 3rem;
+} */
+
+.textgrid {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 20px;
+}
+
+br {
+    padding-bottom: 1rem;
 }
 
 .quote {
